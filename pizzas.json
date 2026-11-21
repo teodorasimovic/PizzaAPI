@@ -1,0 +1,107 @@
+[
+  {
+    "naziv": "Capricciosa",
+    "sastojci": "šunka, šampinjoni, pelat, kačkavalj, paprika",
+    "cena": 1100,
+    "slikaUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Margherita",
+    "sastojci": "pelat, mocarela, bosiljak, maslinovo ulje",
+    "cena": 1000,
+    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Pepperoni",
+    "sastojci": "pelat, mocarela, pepperoni",
+    "cena": 1250,
+    "slikaUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Quattro Formaggi",
+    "sastojci": "mocarela, gorgonzola, parmezan, gauda",
+    "cena": 1400,
+    "slikaUrl": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Funghi",
+    "sastojci": "pelat, kačkavalj, šampinjoni, origano",
+    "cena": 1050,
+    "slikaUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Prosciutto",
+    "sastojci": "pelat, mocarela, pršuta, rukola",
+    "cena": 1450,
+    "slikaUrl": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Diavola",
+    "sastojci": "pelat, mocarela, ljuta salama, čili",
+    "cena": 1300,
+    "slikaUrl": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Vegetariana",
+    "sastojci": "pelat, kačkavalj, paprika, tikvice, masline",
+    "cena": 1150,
+    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "veganske"
+  },
+  {
+    "naziv": "Vegan Garden",
+    "sastojci": "paradajz, pečurke, crni luk, paprika, masline",
+    "cena": 1200,
+    "slikaUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "veganske"
+  },
+  {
+    "naziv": "Marinara",
+    "sastojci": "pelat, beli luk, origano, maslinovo ulje",
+    "cena": 900,
+    "slikaUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "veganske"
+  },
+  {
+    "naziv": "Pesto",
+    "sastojci": "pesto sos, čeri paradajz, rukola, biljni sir",
+    "cena": 1250,
+    "slikaUrl": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "veganske"
+  },
+  {
+    "naziv": "Mexicana",
+    "sastojci": "pelat, kačkavalj, kukuruz, paprika, jalapeño",
+    "cena": 1300,
+    "slikaUrl": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "BBQ Chicken",
+    "sastojci": "BBQ sos, piletina, crveni luk, mocarela",
+    "cena": 1450,
+    "slikaUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Tuna",
+    "sastojci": "pelat, tunjevina, crni luk, masline",
+    "cena": 1350,
+    "slikaUrl": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
+  },
+  {
+    "naziv": "Spinach",
+    "sastojci": "spanać, biljni sir, beli luk, čeri paradajz",
+    "cena": 1200,
+    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "veganske"
+  }
+]
