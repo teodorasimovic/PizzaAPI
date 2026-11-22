@@ -11,7 +11,7 @@
     "sastojci": "pelat, mocarela, bosiljak, maslinovo ulje",
     "cena": 1000,
     "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
-    "kategorija": "klasicne"
+    "kategorija": "veganske"
   },
   {
     "naziv": "Pepperoni",
@@ -24,42 +24,42 @@
     "naziv": "Quattro Formaggi",
     "sastojci": "mocarela, gorgonzola, parmezan, gauda",
     "cena": 1400,
-    "slikaUrl": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://th.bing.com/th/id/R.691120d0454f57c5852945779c6c97c6?rik=tfimV3jPMvUgqQ&pid=ImgRaw&r=0?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Funghi",
     "sastojci": "pelat, kačkavalj, šampinjoni, origano",
     "cena": 1050,
-    "slikaUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse4.mm.bing.net/th/id/OIP.x6odMqc30s_-Bd8fXHkW1AHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Prosciutto",
     "sastojci": "pelat, mocarela, pršuta, rukola",
     "cena": 1450,
-    "slikaUrl": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse4.mm.bing.net/th/id/OIP.ORXEbJVbssRedc8pGmvxqAHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Diavola",
     "sastojci": "pelat, mocarela, ljuta salama, čili",
     "cena": 1300,
-    "slikaUrl": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://th.bing.com/th/id/R.1fd5ea2c9ec8f07c365290283b70bc2d?rik=rTpTx66%2fytN%2fQw&pid=ImgRaw&r=0?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Vegetariana",
     "sastojci": "pelat, kačkavalj, paprika, tikvice, masline",
     "cena": 1150,
-    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse1.explicit.bing.net/th/id/OIP.KoDESncgjVsztvwOQypMQwHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "veganske"
   },
   {
     "naziv": "Vegan Garden",
-    "sastojci": "paradajz, pečurke, crni luk, paprika, masline",
+    "sastojci": "paradajz, masline, crveni luk, paprika, brokoli",
     "cena": 1200,
-    "slikaUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://doozydoo.co/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-13-07.00.15-A-mouth-watering-image-of-a-homemade-vegetarian-pizza-ideal-for-a-blog-post.-The-pizza-is-lavishly-topped-with-a-variety-of-colorful-vegetables-like-.png?auto=format&fit=crop&w=800&q=80",
     "kategorija": "veganske"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "naziv": "Pesto",
-    "sastojci": "pesto sos, čeri paradajz, rukola, biljni sir",
+    "sastojci": "pesto sos, rukola, biljni sir",
     "cena": 1250,
     "slikaUrl": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
     "kategorija": "veganske"
@@ -80,21 +80,21 @@
     "naziv": "Mexicana",
     "sastojci": "pelat, kačkavalj, kukuruz, paprika, jalapeño",
     "cena": 1300,
-    "slikaUrl": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse1.mm.bing.net/th/id/OIP.N884nWoln3Rws8okCmVR9gHaFB?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "BBQ Chicken",
     "sastojci": "BBQ sos, piletina, crveni luk, mocarela",
     "cena": 1450,
-    "slikaUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse3.mm.bing.net/th/id/OIF.1cRMDnMqoNKPgdWigntzbw?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Tuna",
-    "sastojci": "pelat, tunjevina, crni luk, masline",
+    "sastojci": "pelat, tunjevina, crni luk, kukuruz",
     "cena": 1350,
-    "slikaUrl": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://tse1.mm.bing.net/th/id/OIP.b4FU19ZHWCtsQM4hgR96wQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
