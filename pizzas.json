@@ -31,7 +31,7 @@
     "naziv": "Funghi",
     "sastojci": "pelat, kačkavalj, šampinjoni, origano",
     "cena": 1050,
-    "slikaUrl": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://images.unsplash.com/photo-1732827097511-4fb032f7bac4?q=80&w=1026&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
@@ -52,7 +52,7 @@
     "naziv": "Vegetariana",
     "sastojci": "pelat, kačkavalj, paprika, tikvice, masline",
     "cena": 1150,
-    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://plus.unsplash.com/premium_photo-1690056321981-dfe9e75e0247?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "veganske"
   },
   {
@@ -71,37 +71,37 @@
   },
   {
     "naziv": "Pesto",
-    "sastojci": "pesto sos, rukola, biljni sir",
+    "sastojci": "pesto sos, rukola, šunka",
     "cena": 1250,
-    "slikaUrl": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=800&q=80",
-    "kategorija": "veganske"
+    "slikaUrl": "https://images.unsplash.com/photo-1747471270869-3827cb5f3630?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
+    "kategorija": "klasicne"
   },
   {
     "naziv": "Mexicana",
     "sastojci": "pelat, kačkavalj, kukuruz, paprika, jalapeño",
     "cena": 1300,
-    "slikaUrl": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://plus.unsplash.com/premium_photo-1730829452112-9255b16c2df8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "BBQ Chicken",
     "sastojci": "BBQ sos, piletina, crveni luk, mocarela",
     "cena": 1450,
-    "slikaUrl": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://images.unsplash.com/photo-1767065603803-a41d2e25a34c?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Tuna",
     "sastojci": "pelat, tunjevina, crni luk, kukuruz",
     "cena": 1350,
-    "slikaUrl": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://images.unsplash.com/photo-1751026044651-e8a034fcfa86?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "klasicne"
   },
   {
     "naziv": "Spinach",
-    "sastojci": "spanać, biljni sir, beli luk, čeri paradajz",
+    "sastojci": "spanać, biljni sir, beli luk",
     "cena": 1200,
-    "slikaUrl": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=800&q=80",
+    "slikaUrl": "https://plus.unsplash.com/premium_photo-1661762555601-47d088a26b50?q=80&w=1192&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D?auto=format&fit=crop&w=800&q=80",
     "kategorija": "veganske"
   }
 ]
